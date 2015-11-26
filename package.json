@@ -1,0 +1,26 @@
+{
+  "name": "superfly-css-variables-sizes",
+  "version": "0.0.0",
+  "description": "Size variables",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfly-css/superfly-css-variables-sizes.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "sizes",
+    "variables",
+    "superfly-css"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superfly-css/superfly-css-variables-sizes/issues"
+  },
+  "homepage": "https://github.com/superfly-css/superfly-css-variables-sizes#readme"
+}
