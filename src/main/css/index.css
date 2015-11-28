@@ -28,7 +28,7 @@
   --font-size-700: 2.000rem;
   --font-size-800: 2.500rem;
   --font-size-900: 3.000rem;
-  
+
   --font-size-xs: var(--font-size-100);
   --font-size-sm: var(--font-size-200);
   --font-size-lg: var(--font-size-400);
@@ -36,5 +36,13 @@
 
 /* 2 */
 :root {
-  --border-width: 1px;
+  --border-width-100: 1px;
+  --border-width-200: 2px;
+  --border-width-300: 3px;
+  --border-width-400: 4px;
+  --border-width-500: 5px;
+  --border-width-600: 6px;
+  --border-width-700: 7px;
+  --border-width-800: 8px;
+  --border-width-900: 9px;
 }

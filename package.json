@@ -1,6 +1,6 @@
 {
   "name": "superfly-css-variables-sizes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Size variables",
   "main": "src/main/css/index.css",
   "style": "src/main/css/index.css",
