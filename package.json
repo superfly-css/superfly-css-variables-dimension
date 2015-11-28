@@ -26,6 +26,6 @@
   "homepage": "https://github.com/superfly-css/superfly-css-variables-sizes#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "superfly-css-task-build": "0.0.3"
+    "superfly-css-task-build": "0.0.6"
   }
 }
