@@ -9,6 +9,7 @@
  1:  Fonts
  2:  Margins.
  3:  Borders.
+ 4:  Z-Index
 ================================
 */
 
@@ -48,4 +49,17 @@
   --border-width-700: 7px;
   --border-width-800: 8px;
   --border-width-900: 9px;
+}
+
+/* 4 */
+:root {
+  --zindex-dropdown-backdrop: 990;
+  --zindex-navbar: 1000;
+  --zindex-dropdown: 1000;
+  --zindex-fixed: 1030;
+  --zindex-sticky: 1030;
+  --zindex-modal-backdrop: 1040;
+  --zindex-modal: 1050;
+  --zindex-popover: 1060;
+  --zindex-tooltip: 1070;
 }
