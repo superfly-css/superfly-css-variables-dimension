@@ -10,6 +10,7 @@
  2:  Margins.
  3:  Borders.
  4:  Z-Index
+ 5:  Default Media Breakpoints
 ================================
 */
 
@@ -63,3 +64,9 @@
   --zindex-popover: 1060;
   --zindex-tooltip: 1070;
 }
+
+/* 5 */
+@custom-media --s-viewport (min-width: 576px);
+@custom-media --m-viewport (min-width: 768px);
+@custom-media --l-viewport (min-width: 992px);
+@custom-media --xl-viewport (min-width: 1200px);
