@@ -1,3 +1,3 @@
-# Superfly CSS Size Variables
+# superfly-css-variables-dimension
 
-Common size variables.
+Dimension variables.
