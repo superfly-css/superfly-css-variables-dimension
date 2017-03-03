@@ -1,31 +1,31 @@
 {
-  "name": "superfly-css-variables-sizes",
-  "version": "0.0.3",
-  "description": "Size variables",
+  "name": "superfly-css-variables-dimension",
+  "version": "0.0.0",
+  "description": "Dimension variables",
   "main": "src/main/css/index.css",
-  "style": "src/main/css/index.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superfly-css/superfly-css-variables-sizes.git"
+    "url": "git+https://github.com/superfly-css/superfly-css-dimension-sizes.git"
   },
   "keywords": [
     "css",
     "style",
     "sizes",
+    "dimension",
     "variables",
     "superfly-css"
   ],
   "author": "Ole Ersoy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/superfly-css/superfly-css-variables-sizes/issues"
+    "url": "https://github.com/superfly-css/superfly-css-variables-dimension/issues"
   },
-  "homepage": "https://github.com/superfly-css/superfly-css-variables-sizes#readme",
+  "homepage": "https://github.com/superfly-css/superfly-css-variables-dimension#readme",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "superfly-css-task-build": "0.0.6"
+    "gulp": "^3.9.1",
+    "superfly-css-task-build": "0.1.7"
   }
 }
