@@ -3,14 +3,12 @@
 
 /*
 =======================================
- SIZE VARIABLES
+ DIMENSION VARIABLES
 =======================================
  0:  Spacers.
- 1:  Fonts
- 2:  Margins.
- 3:  Borders.
- 4:  Z-Index
- 5:  Default Media Breakpoints
+ 1:  Borders.
+ 2:  Z-Index
+ 3:  Default Media Breakpoints
 ================================
 */
 
@@ -23,24 +21,6 @@
 
 /* 1 */
 :root {
-  --font-size-100: 0.750rem;
-  --font-size-200: 0.875rem;
-  --font-size-300: 1.000rem;
-
-  --font-size-400: 1.250rem;
-  --font-size-500: 1.500rem;
-  --font-size-600: 1.750rem;
-  --font-size-700: 2.000rem;
-  --font-size-800: 2.500rem;
-  --font-size-900: 3.000rem;
-
-  --font-size-xs: var(--font-size-100);
-  --font-size-sm: var(--font-size-200);
-  --font-size-lg: var(--font-size-400);
-}
-
-/* 2 */
-:root {
   --border-width-100: 1px;
   --border-width-200: 2px;
   --border-width-300: 3px;
@@ -52,7 +32,7 @@
   --border-width-900: 9px;
 }
 
-/* 4 */
+/* 2 */
 :root {
   --zindex-dropdown-backdrop: 990;
   --zindex-navbar: 1000;
@@ -65,7 +45,7 @@
   --zindex-tooltip: 1070;
 }
 
-/* 5 */
+/* 3 */
 @custom-media --sm-viewport (min-width: 576px);
 @custom-media --md-viewport (min-width: 768px);
 @custom-media --lg-viewport (min-width: 992px);
