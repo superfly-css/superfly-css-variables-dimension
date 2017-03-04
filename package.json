@@ -1,6 +1,6 @@
 {
   "name": "superfly-css-variables-dimension",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Dimension variables",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -26,6 +26,6 @@
   "homepage": "https://github.com/superfly-css/superfly-css-variables-dimension#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "superfly-css-task-build": "0.1.7"
+    "superfly-css-task-build": "0.1.8"
   }
 }

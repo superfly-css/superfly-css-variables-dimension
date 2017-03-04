@@ -14,7 +14,7 @@
 
 /* 0 */
 :root {
-  --spacer: 1rem;
+  --spacer-1x: 1rem;
   --spacer-2x: 2rem;
   --spacer-3x: 3rem;
   --spacer-4x: 4rem;
