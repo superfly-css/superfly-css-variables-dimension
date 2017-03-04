@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superfly-css/superfly-css-dimension-sizes.git"
+    "url": "git+https://github.com/superfly-css/superfly-css-variables-dimension.git"
   },
   "keywords": [
     "css",

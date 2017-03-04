@@ -15,8 +15,11 @@
 /* 0 */
 :root {
   --spacer: 1rem;
-  --spacer-x: var(--spacer);
-  --spacer-y: var(--spacer);
+  --spacer-2x: 2rem;
+  --spacer-3x: 3rem;
+  --spacer-4x: 4rem;
+  --spacer-5x: 5rem;
+  --spacer-half: 0.5rem;
 }
 
 /* 1 */
